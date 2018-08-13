@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/focus_potion.iml" filepath="$PROJECT_DIR$/focus_potion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/focus_potion_android.iml" filepath="$PROJECT_DIR$/focus_potion_android.iml" />
+    </modules>
+  </component>
+</project>
